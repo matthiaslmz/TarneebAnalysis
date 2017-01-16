@@ -1,2 +1,4 @@
 # TarneebAnalysis
-Results of finding an optimal strategy for the card game, Tarneeb.
+The purpose of this paper is to provide a preliminary report of our understanding and analysis of the strategies for playing a card game called Tarneeb (similar to Bridge). The objective was to find a startegy for playing the cards that maximized the number of hands won each game. The stochastic nature of this card game required a simplified version of the game to be formulated an analyzed in order to examine the optimal playing strategies. 
+
+The main results indicated that the game is not predetermined, and so it was appropriateto attempt to develop a strategy. The strategy found showed that a player should take a "greedy" approach, by winning as many hands as possible early in the game. As such, this allows the player to influence how the game unfolds, maximizing the number of hands won in total. The data suggests that further investigation of optimal strategies for this game is merited.
